@@ -24,3 +24,23 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* my solution */
+
+body {
+  text-align: center;
+}
+.title {
+  margin: 32px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.items {
+  max-width: 
+  200px;
+}
